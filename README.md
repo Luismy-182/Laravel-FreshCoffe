@@ -14,7 +14,8 @@ API para la gestión de pedidos de un quiosco de comida.
 - Control de acceso por roles
 
 ## ⚙️ Instalación
-- git clone ...
+```bash
+- git clone https://github.com/Luismy-182/fresh-coffee-backend.git
 - composer install
 - cp .env.example .env
 - php artisan key:generate
