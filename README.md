@@ -22,4 +22,4 @@ API para la gestión de pedidos de un quiosco de comida.
 - php artisan serve
 
 ## 🔗 Frontend
-https://github.com/tuuser/fresh-coffee-frontend
+- https://github.com/Luismy-182/fresh-coffee-frontend.git
