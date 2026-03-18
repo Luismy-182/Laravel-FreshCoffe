@@ -2,7 +2,7 @@
 
 API para la gestión de pedidos de un quiosco de comida.
 
-## 🚀 Tecnologías
+## 🐘 Tecnologías
 - Laravel
 - MySQL
 - Eloquent ORM
