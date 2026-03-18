@@ -1,2 +1,25 @@
-# Laravel-FreshCoffe
-Backend de API FreshCoffe realizado en Laravel con Eloquent entregando diferentes respuestas en json y tokens al frontend
+# Fresh Coffee - Backend
+
+API para la gestión de pedidos de un quiosco de comida.
+
+## 🚀 Tecnologías
+- Laravel
+- MySQL
+- Eloquent ORM
+
+## 🔐 Funcionalidades
+- Autenticación de usuarios
+- Gestión de pedidos
+- Panel administrativo
+- Control de acceso por roles
+
+## ⚙️ Instalación
+- git clone ...
+- composer install
+- cp .env.example .env
+- php artisan key:generate
+- php artisan migrate
+- php artisan serve
+
+## 🔗 Frontend
+https://github.com/tuuser/fresh-coffee-frontend
